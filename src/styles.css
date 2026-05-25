@@ -63,6 +63,15 @@ button:disabled {
   text-shadow: 0 3px 18px rgba(0, 0, 0, 0.78);
 }
 
+.site-logo {
+  display: block;
+  width: clamp(88px, 14vw, 132px);
+  height: auto;
+  margin: 0 0 18px;
+  border-radius: 999px;
+  filter: drop-shadow(0 14px 22px rgba(0, 0, 0, 0.42));
+}
+
 .eyebrow {
   margin: 0 0 8px;
   color: #f2ffd2;

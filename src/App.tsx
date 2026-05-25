@@ -24,6 +24,7 @@ const currency = new Intl.NumberFormat("es-CR", {
   maximumFractionDigits: 0,
 });
 const PAGE_SIZE = 9;
+const logoUrl = `${import.meta.env.BASE_URL}logo.png`;
 
 const getCardKey = (card: CatalogCard, index: number) =>
   card.id ?? `${card.name}-${card.set}-${index}`;
@@ -270,6 +271,7 @@ export function App() {
     <main className="app-shell">
       <section className="hero-band">
         <div className="hero-copy">
+          <img className="site-logo" src={logoUrl} alt="Magic TCG" />
           <p className="eyebrow">Venta privada</p>
           <h1>Magic TCG</h1>
           <p>
