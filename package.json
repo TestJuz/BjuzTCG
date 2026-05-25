@@ -1,0 +1,28 @@
+{
+  "homepage": "https://testjuz.github.io/BjuzTCG/",
+  "name": "magic-tcg-shop",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "hydrate:images": "node scripts/hydrate-card-images.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "^5.8.0",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "gh-pages": "^6.3.0"
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "lost-days-tla-nonfoil",
+    "name": "Lost days",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1764120357"
+  },
+  {
+    "id": "honest-work-tla-nonfoil",
+    "name": "Honest Work",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251.jpg?1764120279"
+  },
+  {
+    "id": "teo-spirited-glider-tla-nonfoil",
+    "name": "Teo, Spirited Glider",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1764120477"
+  },
+  {
+    "id": "itll-quench-ya-tla-nonfoil",
+    "name": "It'll Quench Ya!",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 8,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308"
+  },
+  {
+    "id": "katarqa-bending-prodigy-tla-nonfoil",
+    "name": "Katarqa, Bending Prodigy",
+    "set": "TLA",
+    "foil": false,
+    "price": 150,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318"
+  },
+  {
+    "id": "benevolent-river-spirit-tla-nonfoil",
+    "name": "Benevolent River Spirit",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1764120194"
+  },
+  {
+    "id": "waterbender-ascension-tla-nonfoil",
+    "name": "Waterbender Ascension",
+    "set": "TLA",
+    "foil": false,
+    "price": 750,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f57e0f9-e232-489c-b991-d0d23f75d8dd.jpg?1764120533"
+  },
+  {
+    "id": "invasion-submersible-tla-nonfoil",
+    "name": "Invasion Submersible",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1764120298"
+  },
+  {
+    "id": "forecasting-fortune-teller-tla-nonfoil",
+    "name": "Forecasting Fortune Teller",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 3,
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1764120239"
+  },
+  {
+    "id": "secret-of-bloodbending-tla-nonfoil",
+    "name": "Secret of bloodbending",
+    "set": "TLA",
+    "foil": false,
+    "price": 500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/b/9bb928ae-f636-4aee-9146-a7885e6a8976.jpg?1764120426"
+  },
+  {
+    "id": "flexible-waterbender-tla-nonfoil",
+    "name": "Flexible Waterbender",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 7,
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1764120230"
+  },
+  {
+    "id": "otter-penguin-tla-nonfoil",
+    "name": "Otter-Penguin",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 7,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1764120406"
+  },
+  {
+    "id": "octopus-form-tla-nonfoil",
+    "name": "Octopus Form",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1764120396"
+  },
+  {
+    "id": "waterbending-lesson-tla-nonfoil",
+    "name": "Waterbending Lesson",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 7,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543"
+  },
+  {
+    "id": "first-time-flyer-tla-nonfoil",
+    "name": "First-Time Flyer",
+    "set": "TLA",
+    "foil": false,
+    "price": 150,
+    "quantity": 5,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1764120222"
+  },
+  {
+    "id": "rowdy-snowballers-tla-nonfoil",
+    "name": "Rowdy Snowballers",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1764120416"
+  },
+  {
+    "id": "watery-grasp-tla-nonfoil",
+    "name": "Watery Grasp",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 3,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1764120563"
+  },
+  {
+    "id": "accumulate-wisdom-tla-nonfoil",
+    "name": "Accumulate Wisdom",
+    "set": "TLA",
+    "foil": false,
+    "price": 1500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/6/a6335319-6c92-40d4-ab2d-c06c79049c30.jpg?1764120188"
+  },
+  {
+    "id": "ember-island-production-tla-nonfoil",
+    "name": "Ember Island Production",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1775728768"
+  },
+  {
+    "id": "geyser-leaper-tla-nonfoil",
+    "name": "Geyser Leaper",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 7,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1764120249"
+  },
+  {
+    "id": "giant-koi-tla-nonfoil",
+    "name": "Giant Koi",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1764120259"
+  },
+  {
+    "id": "knowledge-seeker-tla-nonfoil",
+    "name": "Knowledge seeker",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 3,
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/5/8554e862-f78a-42f5-b876-076aac6c9504.jpg?1764120328"
+  },
+  {
+    "id": "north-pole-patrol-tla-nonfoil",
+    "name": "North Pole Patrol",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386"
+  },
+  {
+    "id": "north-pole-patrol-tla-foil",
+    "name": "North Pole Patrol",
+    "set": "TLA",
+    "foil": true,
+    "price": 300,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386"
+  },
+  {
+    "id": "iguana-parrot-tla-nonfoil",
+    "name": "Iguana Parrot",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289"
+  },
+  {
+    "id": "sokkas-haiku-tla-nonfoil",
+    "name": "Sokka's Haiku",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/0/004be4bc-ac3c-4026-8d36-f4687ab18c70.jpg?1764120446"
+  }
+]

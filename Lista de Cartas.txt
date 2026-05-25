@@ -1,0 +1,26 @@
+Lost days, 5, false, 200
+Honest Work, 1, false, 200
+Teo, Spirited Glider, 1, false, 200
+It'll Quench Ya!. 8, false, 200
+Katarqa, Bending Prodigy, 2, false, 150
+Benevolent River Spirit, 1, false, 200
+Waterbender Ascension, 2, false, 750
+Invasion Submersible, 4, false, 200
+Forecasting Fortune Teller, 3, false, 200
+Secret of bloodbending, 1, false, 500
+Flexible Waterbender, 7, false. 200
+Otter-Penguin, 7, false, 200
+Octopus Form, 2, false, 200
+Waterbending Lesson, 7, false, 200
+First-Time Flyer, 5, false, 150
+Rowdy Snowballers, 5, false, 200
+Watery Grasp, 3, false, 200
+Accumulate Wisdom, 1, false, 1500
+Ember Island Production, 2, false, 200
+Geyser Leaper, 7, false, 200
+Giant Koi, 4, false, 200
+Knowledge seeker, 3, false, 200
+North Pole Patrol, 4, false, 200
+North Pole Patrol, 1, true, 300
+Iguana Parrot, 5, false, 200
+Sokka's Haiku, 1, false, 200
