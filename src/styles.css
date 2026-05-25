@@ -444,7 +444,7 @@ button:disabled {
   color: #174f38;
 }
 
-.copy-button {
+.order-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -457,11 +457,10 @@ button:disabled {
   font-weight: 800;
 }
 
-.copy-button:disabled {
+.order-button:disabled {
   background: #a6a49d;
 }
 
-.copy-error,
 .status-message {
   margin: 0 0 16px;
   color: #7d3c30;

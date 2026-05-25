@@ -2,9 +2,9 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowUpDown,
   Check,
-  Clipboard,
   Coins,
   Loader2,
+  MessageCircle,
   Minus,
   Plus,
   Search,
@@ -25,6 +25,7 @@ const currency = new Intl.NumberFormat("es-CR", {
 });
 const PAGE_SIZE = 9;
 const logoUrl = `${import.meta.env.BASE_URL}logo.png`;
+const whatsappOrderUrl = "https://wa.me/50671778171";
 
 const getCardKey = (card: CatalogCard, index: number) =>
   card.id ?? `${card.name}-${card.set}-${index}`;
@@ -61,7 +62,6 @@ export function App() {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [loadingCatalog, setLoadingCatalog] = useState(true);
   const [loadError, setLoadError] = useState("");
-  const [copyState, setCopyState] = useState<"idle" | "copied" | "error">("idle");
   const imageRequests = useRef(new Set<string>());
   const loadMoreRef = useRef<HTMLDivElement | null>(null);
 
@@ -244,7 +244,7 @@ export function App() {
     });
   };
 
-  const copyOrder = async () => {
+  const placeOrder = () => {
     const message = [
       "Hola, quiero comprar estas cartas:",
       ...selectedCards.map(
@@ -258,13 +258,7 @@ export function App() {
       `Total: ${currency.format(selectedTotal)}`,
     ].join("\n");
 
-    try {
-      await navigator.clipboard.writeText(message);
-      setCopyState("copied");
-      window.setTimeout(() => setCopyState("idle"), 1800);
-    } catch {
-      setCopyState("error");
-    }
+    window.location.href = `${whatsappOrderUrl}?text=${encodeURIComponent(message)}`;
   };
 
   return (
@@ -275,8 +269,7 @@ export function App() {
           <p className="eyebrow">Venta privada</p>
           <h1>Magic TCG</h1>
           <p>
-            Explora el catalogo, arma tu pedido y copia el mensaje para mandarlo
-            por chat.
+            Explora el catalogo, arma tu pedido y envialo directo por WhatsApp.
           </p>
         </div>
 
@@ -473,18 +466,14 @@ export function App() {
           </div>
 
           <button
-            className="copy-button"
+            className="order-button"
             type="button"
-            onClick={copyOrder}
+            onClick={placeOrder}
             disabled={selectedItemCount === 0}
           >
-            {copyState === "copied" ? <Check size={18} /> : <Clipboard size={18} />}
-            {copyState === "copied" ? "Copiado" : "Copiar pedido"}
+            <MessageCircle size={18} />
+            Realizar pedido
           </button>
-
-          {copyState === "error" ? (
-            <p className="copy-error">El navegador bloqueo el portapapeles.</p>
-          ) : null}
         </aside>
       </section>
 
