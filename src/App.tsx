@@ -3,6 +3,7 @@ import {
   ArrowUpDown,
   Check,
   Coins,
+  Gem,
   Loader2,
   MessageCircle,
   Minus,
@@ -16,6 +17,7 @@ import { resolveCardImage } from "./api/magicApi";
 import type { CatalogCard, DisplayCard } from "./types";
 
 type SortMode = "name" | "price-low" | "price-high";
+type FinishFilter = "all" | "foil" | "nonfoil";
 type SelectedQuantities = Record<string, number>;
 
 const currency = new Intl.NumberFormat("es-CR", {
@@ -58,6 +60,7 @@ export function App() {
   const [selectedQuantities, setSelectedQuantities] = useState<SelectedQuantities>({});
   const [query, setQuery] = useState("");
   const [setFilter, setSetFilter] = useState("all");
+  const [finishFilter, setFinishFilter] = useState<FinishFilter>("all");
   const [sortMode, setSortMode] = useState<SortMode>("name");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [loadingCatalog, setLoadingCatalog] = useState(true);
@@ -106,12 +109,16 @@ export function App() {
         (card.foil ? "foil" : "non foil").includes(normalizedQuery);
 
       const matchesSet = setFilter === "all" || card.set === setFilter;
+      const matchesFinish =
+        finishFilter === "all" ||
+        (finishFilter === "foil" && card.foil) ||
+        (finishFilter === "nonfoil" && !card.foil);
 
-      return matchesQuery && matchesSet;
+      return matchesQuery && matchesSet && matchesFinish;
     });
 
     return sortCards(matchingCards, sortMode);
-  }, [cards, query, setFilter, sortMode]);
+  }, [cards, query, setFilter, finishFilter, sortMode]);
 
   const visibleCards = useMemo(
     () => filteredCards.slice(0, visibleCount),
@@ -120,7 +127,7 @@ export function App() {
 
   useEffect(() => {
     setVisibleCount(PAGE_SIZE);
-  }, [query, setFilter, sortMode]);
+  }, [query, setFilter, finishFilter, sortMode]);
 
   useEffect(() => {
     const loadMoreTarget = loadMoreRef.current;
@@ -309,6 +316,18 @@ export function App() {
                 {setCode}
               </option>
             ))}
+          </select>
+        </label>
+
+        <label className="select-control">
+          <Gem size={17} aria-hidden="true" />
+          <select
+            value={finishFilter}
+            onChange={(event) => setFinishFilter(event.target.value as FinishFilter)}
+          >
+            <option value="all">Foil y non foil</option>
+            <option value="foil">Solo foil</option>
+            <option value="nonfoil">Solo non foil</option>
           </select>
         </label>
 
