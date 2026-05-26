@@ -7,6 +7,7 @@ export type CatalogCard = {
   foil?: boolean;
   price: number;
   imageUrl?: string;
+  arteAlternativo?: boolean;
   condition?: string;
   quantity?: number;
   sold?: boolean;

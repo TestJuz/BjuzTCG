@@ -6,7 +6,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1764120357"
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/b/db8e88e3-0931-403f-90e7-3c22c0b61dac.jpg?1764120357",
+    "arteAlternativo": false
   },
   {
     "id": "honest-work-tla-nonfoil",
@@ -15,7 +16,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251.jpg?1764120279"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251.jpg?1764120279",
+    "arteAlternativo": false
   },
   {
     "id": "teo-spirited-glider-tla-nonfoil",
@@ -24,7 +26,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1764120477"
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/6/66906ed4-baac-4be0-9359-34f453d1a04a.jpg?1764120477",
+    "arteAlternativo": false
   },
   {
     "id": "itll-quench-ya-tla-nonfoil",
@@ -33,7 +36,8 @@
     "foil": false,
     "price": 200,
     "quantity": 8,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308",
+    "arteAlternativo": false
   },
   {
     "id": "katarqa-bending-prodigy-tla-nonfoil",
@@ -42,7 +46,8 @@
     "foil": false,
     "price": 150,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318",
+    "arteAlternativo": false
   },
   {
     "id": "benevolent-river-spirit-tla-nonfoil",
@@ -51,7 +56,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1764120194"
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7ffb79cd-d170-4047-89c8-6e85188f30da.jpg?1764120194",
+    "arteAlternativo": false
   },
   {
     "id": "waterbender-ascension-tla-nonfoil",
@@ -60,7 +66,8 @@
     "foil": false,
     "price": 750,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f57e0f9-e232-489c-b991-d0d23f75d8dd.jpg?1764120533"
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f57e0f9-e232-489c-b991-d0d23f75d8dd.jpg?1764120533",
+    "arteAlternativo": false
   },
   {
     "id": "invasion-submersible-tla-nonfoil",
@@ -69,7 +76,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1764120298"
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/f/af5299f5-1633-4c07-ade5-fd47e29ea4aa.jpg?1764120298",
+    "arteAlternativo": false
   },
   {
     "id": "forecasting-fortune-teller-tla-nonfoil",
@@ -78,7 +86,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1764120239"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/2/023e7ad4-6af0-4f29-a716-27a313974227.jpg?1764120239",
+    "arteAlternativo": false
   },
   {
     "id": "secret-of-bloodbending-tla-nonfoil",
@@ -87,7 +96,8 @@
     "foil": false,
     "price": 500,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/9/b/9bb928ae-f636-4aee-9146-a7885e6a8976.jpg?1764120426"
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/b/9bb928ae-f636-4aee-9146-a7885e6a8976.jpg?1764120426",
+    "arteAlternativo": false
   },
   {
     "id": "flexible-waterbender-tla-nonfoil",
@@ -96,7 +106,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1764120230"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/1447ebce-7e48-4b21-a39c-740920538bdd.jpg?1764120230",
+    "arteAlternativo": false
   },
   {
     "id": "otter-penguin-tla-nonfoil",
@@ -105,7 +116,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1764120406"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/8/480b6279-bb34-4b3f-a639-868b52af92b9.jpg?1764120406",
+    "arteAlternativo": false
   },
   {
     "id": "octopus-form-tla-nonfoil",
@@ -114,7 +126,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1764120396"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/e/ce96a826-53a0-4029-bf34-46779d133b13.jpg?1764120396",
+    "arteAlternativo": false
   },
   {
     "id": "waterbending-lesson-tla-nonfoil",
@@ -123,7 +136,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543",
+    "arteAlternativo": false
   },
   {
     "id": "first-time-flyer-tla-nonfoil",
@@ -132,7 +146,8 @@
     "foil": false,
     "price": 150,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1764120222"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/a/ea22d29d-3a62-4ae2-91d5-21a678be9b48.jpg?1764120222",
+    "arteAlternativo": false
   },
   {
     "id": "rowdy-snowballers-tla-nonfoil",
@@ -141,7 +156,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1764120416"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/7/17d71522-b133-4003-b787-0c742a2fd70e.jpg?1764120416",
+    "arteAlternativo": false
   },
   {
     "id": "watery-grasp-tla-nonfoil",
@@ -150,7 +166,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1764120563"
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/6/26bcff57-428e-4f30-a153-a778fbfc437d.jpg?1764120563",
+    "arteAlternativo": false
   },
   {
     "id": "accumulate-wisdom-tla-nonfoil",
@@ -159,7 +176,8 @@
     "foil": false,
     "price": 1500,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/a/6/a6335319-6c92-40d4-ab2d-c06c79049c30.jpg?1764120188"
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/6/a6335319-6c92-40d4-ab2d-c06c79049c30.jpg?1764120188",
+    "arteAlternativo": false
   },
   {
     "id": "ember-island-production-tla-nonfoil",
@@ -168,7 +186,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1775728768"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0f79a7fc-36b1-4397-8e67-6638379d3a38.jpg?1775728768",
+    "arteAlternativo": false
   },
   {
     "id": "geyser-leaper-tla-nonfoil",
@@ -177,7 +196,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1764120249"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/d/4d25428d-e5a5-43c4-8544-43120ed1c4d5.jpg?1764120249",
+    "arteAlternativo": false
   },
   {
     "id": "giant-koi-tla-nonfoil",
@@ -186,7 +206,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1764120259"
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/9/3938ec1f-979c-48e5-bb13-bebace006a8f.jpg?1764120259",
+    "arteAlternativo": false
   },
   {
     "id": "knowledge-seeker-tla-nonfoil",
@@ -195,7 +216,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/8/5/8554e862-f78a-42f5-b876-076aac6c9504.jpg?1764120328"
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/5/8554e862-f78a-42f5-b876-076aac6c9504.jpg?1764120328",
+    "arteAlternativo": false
   },
   {
     "id": "north-pole-patrol-tla-nonfoil",
@@ -204,7 +226,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386",
+    "arteAlternativo": false
   },
   {
     "id": "north-pole-patrol-tla-foil",
@@ -213,7 +236,8 @@
     "foil": true,
     "price": 300,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2c0c138-5b61-4949-8431-4a6d458ead6a.jpg?1764120386",
+    "arteAlternativo": false
   },
   {
     "id": "iguana-parrot-tla-nonfoil",
@@ -222,7 +246,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289"
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/f/7faa3e3d-c08a-4908-85ef-1370d3f90815.jpg?1764120289",
+    "arteAlternativo": false
   },
   {
     "id": "sokkas-haiku-tla-nonfoil",
@@ -231,7 +256,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/0/004be4bc-ac3c-4026-8d36-f4687ab18c70.jpg?1764120446"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/0/004be4bc-ac3c-4026-8d36-f4687ab18c70.jpg?1764120446",
+    "arteAlternativo": false
   },
   {
     "id": "foggy-swamp-hunters-tla-nonfoil",
@@ -240,7 +266,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg?1764120698"
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/f/3f6e5869-ca25-4b98-a844-8a498cb40aab.jpg?1764120698",
+    "arteAlternativo": false
   },
   {
     "id": "fatal-fissure-tla-nonfoil",
@@ -249,7 +276,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1764120669"
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1764120669",
+    "arteAlternativo": false
   },
   {
     "id": "hog-monkey-tla-nonfoil",
@@ -258,7 +286,8 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1764120722"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1764120722",
+    "arteAlternativo": false
   },
   {
     "id": "fire-nation-engineer-tla-nonfoil",
@@ -267,7 +296,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1764120684"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1764120684",
+    "arteAlternativo": false
   },
   {
     "id": "canyon-crawler-tla-nonfoil",
@@ -276,7 +306,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/30a30bfb-f0f3-425b-b37d-20079ee27046.jpg?1764120621"
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/0/30a30bfb-f0f3-425b-b37d-20079ee27046.jpg?1764120621",
+    "arteAlternativo": false
   },
   {
     "id": "cat-gator-tla-nonfoil",
@@ -285,7 +316,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/c/ec83a825-79e6-42a4-919c-3bc498ff4433.jpg?1764120629"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/c/ec83a825-79e6-42a4-919c-3bc498ff4433.jpg?1764120629",
+    "arteAlternativo": false
   },
   {
     "id": "boiling-rock-rioter-tla-nonfoil",
@@ -294,7 +326,8 @@
     "foil": false,
     "price": 250,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/7/3/739653cc-35c8-4a66-95d8-3e80fa6114f0.jpg?1764120601"
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/3/739653cc-35c8-4a66-95d8-3e80fa6114f0.jpg?1764120601",
+    "arteAlternativo": false
   },
   {
     "id": "azula-always-lies-tla-nonfoil",
@@ -303,7 +336,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/1/416b9207-a2af-44d1-9b87-4943f6e46d42.jpg?1764120582"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/1/416b9207-a2af-44d1-9b87-4943f6e46d42.jpg?1764120582",
+    "arteAlternativo": false
   },
   {
     "id": "wolfbat-tla-nonfoil",
@@ -312,7 +346,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/2/a/2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2.jpg?1764120843"
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/a/2ae83b4e-e5a4-4c98-8d16-eef3c71b8ff2.jpg?1764120843",
+    "arteAlternativo": false
   },
   {
     "id": "raven-eagle-tla-nonfoil",
@@ -321,7 +356,8 @@
     "foil": false,
     "price": 250,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/2/2/2262f24b-db6b-4f86-96d0-47a20fc015ab.jpg?1764120797"
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/2/2262f24b-db6b-4f86-96d0-47a20fc015ab.jpg?1764120797",
+    "arteAlternativo": false
   },
   {
     "id": "northern-air-temple-tla-nonfoil",
@@ -330,7 +366,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/06b7675e-e665-49cb-a8d9-7092a654d464.jpg?1764120766"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/06b7675e-e665-49cb-a8d9-7092a654d464.jpg?1764120766",
+    "arteAlternativo": false
   },
   {
     "id": "azula-on-the-hunt-tla-nonfoil",
@@ -339,7 +376,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/3/1335a145-248a-4f1e-8760-9a5d531e14e3.jpg?1764120589"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/3/1335a145-248a-4f1e-8760-9a5d531e14e3.jpg?1764120589",
+    "arteAlternativo": false
   },
   {
     "id": "ozais-cruelty-tla-nonfoil",
@@ -348,7 +386,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/2/2/22cad680-d46a-4589-a633-b6ee9a78d61e.jpg?1764120778"
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/2/22cad680-d46a-4589-a633-b6ee9a78d61e.jpg?1764120778",
+    "arteAlternativo": false
   },
   {
     "id": "june-bounty-hunter-tla-nonfoil",
@@ -357,7 +396,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/148bbaab-bc7b-46ab-8e18-ade69d71d847.jpg?1764120735"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/148bbaab-bc7b-46ab-8e18-ade69d71d847.jpg?1764120735",
+    "arteAlternativo": false
   },
   {
     "id": "merchant-of-many-hats-tla-nonfoil",
@@ -366,7 +406,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/7/5/752ffa24-93b6-4b33-bf10-7222357ac472.jpg?1764120760"
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/5/752ffa24-93b6-4b33-bf10-7222357ac472.jpg?1764120760",
+    "arteAlternativo": false
   },
   {
     "id": "heartless-act-tla-nonfoil",
@@ -375,7 +416,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1764120715"
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1764120715",
+    "arteAlternativo": false
   },
   {
     "id": "zukos-conviction-tla-nonfoil",
@@ -384,7 +426,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad8933d6-cdc7-4d60-a78e-b43ffecfb136.jpg?1764120849"
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/d/ad8933d6-cdc7-4d60-a78e-b43ffecfb136.jpg?1764120849",
+    "arteAlternativo": false
   },
   {
     "id": "beetle-headed-merchants-tla-nonfoil",
@@ -393,7 +436,8 @@
     "foil": false,
     "price": 150,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2eed79f-38c1-4aac-9525-d54cb114f17f.jpg?1764120595"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/2/c2eed79f-38c1-4aac-9525-d54cb114f17f.jpg?1764120595",
+    "arteAlternativo": false
   },
   {
     "id": "deadly-precision-tla-nonfoil",
@@ -402,7 +446,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/4661daf6-d960-4278-8946-70948efaf99d.jpg?1764120656"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/4661daf6-d960-4278-8946-70948efaf99d.jpg?1764120656",
+    "arteAlternativo": false
   },
   {
     "id": "tundra-tank-tla-nonfoil",
@@ -411,7 +456,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/3/13c66fce-8f8e-4a98-8413-9f05aebf6e13.jpg?1764120836"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/3/13c66fce-8f8e-4a98-8413-9f05aebf6e13.jpg?1764120836",
+    "arteAlternativo": false
   },
   {
     "id": "pirate-peddlers-tla-nonfoil",
@@ -420,7 +466,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/c/5c998994-6c3b-4f34-9b31-babba2b17266.jpg?1764120791"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/c/5c998994-6c3b-4f34-9b31-babba2b17266.jpg?1764120791",
+    "arteAlternativo": false
   },
   {
     "id": "corrupt-court-official-tla-nonfoil",
@@ -429,7 +476,8 @@
     "foil": false,
     "price": 200,
     "quantity": 10,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/4692610e-d64c-438e-b5ad-0cf67fd57f1f.jpg?1764120636"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/6/4692610e-d64c-438e-b5ad-0cf67fd57f1f.jpg?1764120636",
+    "arteAlternativo": false
   },
   {
     "id": "fire-navy-trebuchet-tla-nonfoil",
@@ -438,7 +486,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1764120692"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/5/e58372cc-9a89-47a4-a0db-df5435e26cd3.jpg?1764120692",
+    "arteAlternativo": false
   },
   {
     "id": "swampsnare-trap-tla-nonfoil",
@@ -447,7 +496,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/6/3/6348b6bf-08a7-45f0-8b2d-2827ab89f21c.jpg?1764120830"
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/3/6348b6bf-08a7-45f0-8b2d-2827ab89f21c.jpg?1764120830",
+    "arteAlternativo": false
   },
   {
     "id": "dai-li-indoctrination-tla-nonfoil",
@@ -456,7 +506,8 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/c/eca652b8-44f1-4bd9-b4bf-036eeead13aa.jpg?1764120643"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/c/eca652b8-44f1-4bd9-b4bf-036eeead13aa.jpg?1764120643",
+    "arteAlternativo": false
   },
   {
     "id": "lo-and-li-twin-tutors-tla-nonfoil",
@@ -465,7 +516,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747",
+    "arteAlternativo": false
   },
   {
     "id": "lo-and-li-twin-tutors-tla-foil",
@@ -474,7 +526,8 @@
     "foil": true,
     "price": 300,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747"
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/b/cba9260d-ef07-4429-99f9-6004cc1fea0f.jpg?1764120747",
+    "arteAlternativo": false
   },
   {
     "id": "sold-out-tla-nonfoil",
@@ -483,7 +536,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1764120823"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1affba6d-2cca-4cdf-8690-1e23ffbe8462.jpg?1764120823",
+    "arteAlternativo": false
   },
   {
     "id": "callous-inspector-tla-nonfoil",
@@ -492,7 +546,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/f/2/f22610e9-6b14-4914-bb67-bd6723bec9aa.jpg?1764120614"
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/2/f22610e9-6b14-4914-bb67-bd6723bec9aa.jpg?1764120614",
+    "arteAlternativo": false
   },
   {
     "id": "buzzard-wasp-colony-tla-nonfoil",
@@ -501,7 +556,8 @@
     "foil": false,
     "price": 150,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/4/2/42d83229-0555-4361-8964-4b525c825843.jpg?1764120607"
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/2/42d83229-0555-4361-8964-4b525c825843.jpg?1764120607",
+    "arteAlternativo": false
   },
   {
     "id": "ruinous-waterbending-tla-nonfoil",
@@ -510,7 +566,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1764120817"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1764120817",
+    "arteAlternativo": false
   },
   {
     "id": "combustion-technique-tla-nonfoil",
@@ -519,7 +576,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1774088518"
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1774088518",
+    "arteAlternativo": false
   },
   {
     "id": "crescent-island-temple-tla-nonfoil",
@@ -528,7 +586,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/4/04c85150-269e-4158-a1b9-bd11bc6b7d79.jpg?1764120888"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/4/04c85150-269e-4158-a1b9-bd11bc6b7d79.jpg?1764120888",
+    "arteAlternativo": false
   },
   {
     "id": "boar-q-pine-tla-nonfoil",
@@ -537,7 +596,8 @@
     "foil": false,
     "price": 150,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855",
+    "arteAlternativo": false
   },
   {
     "id": "boar-q-pine-tla-foil",
@@ -546,7 +606,8 @@
     "foil": true,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855",
+    "arteAlternativo": false
   },
   {
     "id": "cunning-maneuver-tla-nonfoil",
@@ -555,7 +616,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1764120894"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1764120894",
+    "arteAlternativo": false
   },
   {
     "id": "twin-blades-tla-nonfoil",
@@ -564,7 +626,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1764121078"
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1764121078",
+    "arteAlternativo": false
   },
   {
     "id": "irohs-demonstration-tla-nonfoil",
@@ -573,7 +636,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/8/18d15fed-1f8f-4407-a221-a47ce75001a8.jpg?1764120967"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/8/18d15fed-1f8f-4407-a221-a47ce75001a8.jpg?1764120967",
+    "arteAlternativo": false
   },
   {
     "id": "fire-nation-raider-tla-nonfoil",
@@ -582,7 +646,8 @@
     "foil": false,
     "price": 250,
     "quantity": 6,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1764120927"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1764120927",
+    "arteAlternativo": false
   },
   {
     "id": "how-to-start-a-riot-tla-nonfoil",
@@ -591,7 +656,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1764120961"
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1764120961",
+    "arteAlternativo": false
   },
   {
     "id": "fire-nation-cadets-tla-nonfoil",
@@ -600,7 +666,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1764120921"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1764120921",
+    "arteAlternativo": false
   },
   {
     "id": "tiger-dillo-tla-nonfoil",
@@ -609,7 +676,8 @@
     "foil": false,
     "price": 150,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1764121066"
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1764121066",
+    "arteAlternativo": false
   },
   {
     "id": "mongoose-lizard-tla-nonfoil",
@@ -618,7 +686,8 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": "https://cards.scryfall.io/normal/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1764121019"
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1764121019",
+    "arteAlternativo": false
   },
   {
     "id": "yuyan-archers-tla-nonfoil",
@@ -627,7 +696,8 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": "https://cards.scryfall.io/normal/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1764121103"
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1764121103",
+    "arteAlternativo": false
   },
   {
     "id": "rough-rhino-cavalry-tla-nonfoil",
@@ -636,7 +706,8 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": "https://cards.scryfall.io/normal/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1764121046"
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1764121046",
+    "arteAlternativo": false
   },
   {
     "id": "lightning-strike-tla-nonfoil",
@@ -645,7 +716,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1764121006"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1764121006",
+    "arteAlternativo": false
   },
   {
     "id": "zuko-exiled-prince-tla-nonfoil",
@@ -654,7 +726,8 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6a73b372-9c0e-4a85-89d2-440163330687.jpg?1764121115"
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6a73b372-9c0e-4a85-89d2-440163330687.jpg?1764121115",
+    "arteAlternativo": false
   },
   {
     "id": "treetop-freedom-fighters-tla-nonfoil",
@@ -663,7 +736,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1764121072"
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1764121072",
+    "arteAlternativo": false
   },
   {
     "id": "deserters-disciple-tla-nonfoil",
@@ -672,7 +746,8 @@
     "foil": false,
     "price": 150,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/14f2ed5a-042b-4cce-82ad-cfb4bd511d98.jpg?1764120901"
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/14f2ed5a-042b-4cce-82ad-cfb4bd511d98.jpg?1764120901",
+    "arteAlternativo": false
   },
   {
     "id": "fire-nation-attacks-tla-nonfoil",
@@ -681,7 +756,8 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1764120914"
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1764120914",
+    "arteAlternativo": false
   },
   {
     "id": "wartime-protestors-tla-nonfoil",
@@ -690,7 +766,8 @@
     "foil": false,
     "price": 250,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1764121097"
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1764121097",
+    "arteAlternativo": false
   },
   {
     "id": "bumi-bash-tla-nonfoil",
@@ -699,7 +776,8 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1773973552"
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1773973552",
+    "arteAlternativo": false
   },
   {
     "id": "firebending-lesson-tla-nonfoil",
@@ -708,7 +786,8 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": "https://cards.scryfall.io/normal/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1764120947"
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1764120947",
+    "arteAlternativo": false
   },
   {
     "id": "the-cave-of-two-lovers-tla-nonfoil",
@@ -717,7 +796,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/5/0/50bf5c8b-f218-46b7-843c-8d8083f02fd2.jpg?1764120868"
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/0/50bf5c8b-f218-46b7-843c-8d8083f02fd2.jpg?1764120868",
+    "arteAlternativo": false
   },
   {
     "id": "ty-lee-artful-acrobat-tla-nonfoil",
@@ -726,7 +806,8 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1764121084"
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1764121084",
+    "arteAlternativo": false
   },
   {
     "id": "war-balloon-tla-nonfoil",
@@ -735,6 +816,7 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1764121090"
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1764121090",
+    "arteAlternativo": false
   }
 ]
