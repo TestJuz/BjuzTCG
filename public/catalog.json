@@ -519,7 +519,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/d/fdcca576-2ef2-44cc-9944-a92bd146444a.jpg?1774088518"
   },
   {
     "id": "crescent-island-temple-tla-nonfoil",
@@ -528,7 +528,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/4/04c85150-269e-4158-a1b9-bd11bc6b7d79.jpg?1764120888"
   },
   {
     "id": "boar-q-pine-tla-nonfoil",
@@ -537,7 +537,7 @@
     "foil": false,
     "price": 150,
     "quantity": 4,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855"
   },
   {
     "id": "boar-q-pine-tla-foil",
@@ -546,7 +546,7 @@
     "foil": true,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/8/087a445c-5f63-45d6-83e8-20d22650db20.jpg?1764120855"
   },
   {
     "id": "cunning-maneuver-tla-nonfoil",
@@ -555,7 +555,7 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/f/0ff7c993-ba29-43b0-9639-7c4bc0292fa2.jpg?1764120894"
   },
   {
     "id": "twin-blades-tla-nonfoil",
@@ -564,7 +564,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1764121078"
   },
   {
     "id": "irohs-demonstration-tla-nonfoil",
@@ -573,7 +573,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/8/18d15fed-1f8f-4407-a221-a47ce75001a8.jpg?1764120967"
   },
   {
     "id": "fire-nation-raider-tla-nonfoil",
@@ -582,7 +582,7 @@
     "foil": false,
     "price": 250,
     "quantity": 6,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/d/ede1bbdb-c726-46e3-aaf1-b8cf2be2c341.jpg?1764120927"
   },
   {
     "id": "how-to-start-a-riot-tla-nonfoil",
@@ -591,7 +591,7 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/3/23b3bf1e-ea85-47f5-8473-4d16615f68d7.jpg?1764120961"
   },
   {
     "id": "fire-nation-cadets-tla-nonfoil",
@@ -600,7 +600,7 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/a/1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd.jpg?1764120921"
   },
   {
     "id": "tiger-dillo-tla-nonfoil",
@@ -609,7 +609,7 @@
     "foil": false,
     "price": 150,
     "quantity": 4,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/0/6/067bd117-04e6-410e-89c4-6d431d627751.jpg?1764121066"
   },
   {
     "id": "mongoose-lizard-tla-nonfoil",
@@ -618,7 +618,7 @@
     "foil": false,
     "price": 200,
     "quantity": 7,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/7/d/7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c.jpg?1764121019"
   },
   {
     "id": "yuyan-archers-tla-nonfoil",
@@ -627,7 +627,7 @@
     "foil": false,
     "price": 200,
     "quantity": 4,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/9/99244462-a996-4a5b-91fb-947045647d6d.jpg?1764121103"
   },
   {
     "id": "rough-rhino-cavalry-tla-nonfoil",
@@ -636,7 +636,7 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/8/a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d.jpg?1764121046"
   },
   {
     "id": "lightning-strike-tla-nonfoil",
@@ -645,7 +645,7 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1764121006"
   },
   {
     "id": "zuko-exiled-prince-tla-nonfoil",
@@ -654,7 +654,7 @@
     "foil": false,
     "price": 200,
     "quantity": 2,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/a/6a73b372-9c0e-4a85-89d2-440163330687.jpg?1764121115"
   },
   {
     "id": "treetop-freedom-fighters-tla-nonfoil",
@@ -663,7 +663,7 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/9/a9394200-7ffc-440f-8b5f-c08b7930133c.jpg?1764121072"
   },
   {
     "id": "deserters-disciple-tla-nonfoil",
@@ -672,7 +672,7 @@
     "foil": false,
     "price": 150,
     "quantity": 5,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/4/14f2ed5a-042b-4cce-82ad-cfb4bd511d98.jpg?1764120901"
   },
   {
     "id": "fire-nation-attacks-tla-nonfoil",
@@ -681,7 +681,7 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9cc10845-8989-46ca-a57a-fd728fca0729.jpg?1764120914"
   },
   {
     "id": "wartime-protestors-tla-nonfoil",
@@ -690,7 +690,7 @@
     "foil": false,
     "price": 250,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/a/bac81940-d717-49ff-83b2-16a22bb2c988.jpg?1764121097"
   },
   {
     "id": "bumi-bash-tla-nonfoil",
@@ -699,7 +699,7 @@
     "foil": false,
     "price": 200,
     "quantity": 6,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/8/e8895479-26cb-4ee8-98ca-6d46c43f0dbd.jpg?1773973552"
   },
   {
     "id": "firebending-lesson-tla-nonfoil",
@@ -708,7 +708,7 @@
     "foil": false,
     "price": 200,
     "quantity": 5,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/a/fa940e68-010e-4b68-be8a-555d7068f7b4.jpg?1764120947"
   },
   {
     "id": "the-cave-of-two-lovers-tla-nonfoil",
@@ -717,7 +717,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/0/50bf5c8b-f218-46b7-843c-8d8083f02fd2.jpg?1764120868"
   },
   {
     "id": "ty-lee-artful-acrobat-tla-nonfoil",
@@ -726,7 +726,7 @@
     "foil": false,
     "price": 200,
     "quantity": 1,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7.jpg?1764121084"
   },
   {
     "id": "war-balloon-tla-nonfoil",
@@ -735,6 +735,6 @@
     "foil": false,
     "price": 200,
     "quantity": 3,
-    "imageUrl": ""
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1764121090"
   }
 ]
