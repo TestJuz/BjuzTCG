@@ -511,5 +511,230 @@
     "price": 200,
     "quantity": 1,
     "imageUrl": "https://cards.scryfall.io/normal/front/5/3/53161747-c82b-41e8-90ea-7791ea262a85.jpg?1764120817"
+  },
+  {
+    "id": "combustion-technique-tla-nonfoil",
+    "name": "Combustion Technique",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "crescent-island-temple-tla-nonfoil",
+    "name": "Crescent Island Temple",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "boar-q-pine-tla-nonfoil",
+    "name": "Boar-q-pine",
+    "set": "TLA",
+    "foil": false,
+    "price": 150,
+    "quantity": 4,
+    "imageUrl": ""
+  },
+  {
+    "id": "boar-q-pine-tla-foil",
+    "name": "Boar-q-pine",
+    "set": "TLA",
+    "foil": true,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "cunning-maneuver-tla-nonfoil",
+    "name": "Cunning Maneuver",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "twin-blades-tla-nonfoil",
+    "name": "Twin Blades",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "irohs-demonstration-tla-nonfoil",
+    "name": "Iroh's Demonstration",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "fire-nation-raider-tla-nonfoil",
+    "name": "Fire Nation Raider",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 6,
+    "imageUrl": ""
+  },
+  {
+    "id": "how-to-start-a-riot-tla-nonfoil",
+    "name": "How to start a Riot",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": ""
+  },
+  {
+    "id": "fire-nation-cadets-tla-nonfoil",
+    "name": "Fire Nation Cadets",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": ""
+  },
+  {
+    "id": "tiger-dillo-tla-nonfoil",
+    "name": "Tiger-Dillo",
+    "set": "TLA",
+    "foil": false,
+    "price": 150,
+    "quantity": 4,
+    "imageUrl": ""
+  },
+  {
+    "id": "mongoose-lizard-tla-nonfoil",
+    "name": "Mongoose Lizard",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 7,
+    "imageUrl": ""
+  },
+  {
+    "id": "yuyan-archers-tla-nonfoil",
+    "name": "Yuyan Archers",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 4,
+    "imageUrl": ""
+  },
+  {
+    "id": "rough-rhino-cavalry-tla-nonfoil",
+    "name": "Rough Rhino Cavalry",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 6,
+    "imageUrl": ""
+  },
+  {
+    "id": "lightning-strike-tla-nonfoil",
+    "name": "Lightning Strike",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "zuko-exiled-prince-tla-nonfoil",
+    "name": "Zuko, Exiled Prince",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 2,
+    "imageUrl": ""
+  },
+  {
+    "id": "treetop-freedom-fighters-tla-nonfoil",
+    "name": "Treetop Freedom Fighters",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "deserters-disciple-tla-nonfoil",
+    "name": "Deserter's Disciple",
+    "set": "TLA",
+    "foil": false,
+    "price": 150,
+    "quantity": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "fire-nation-attacks-tla-nonfoil",
+    "name": "Fire Nation Attacks",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 3,
+    "imageUrl": ""
+  },
+  {
+    "id": "wartime-protestors-tla-nonfoil",
+    "name": "Wartime Protestors",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "bumi-bash-tla-nonfoil",
+    "name": "Bumi Bash",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 6,
+    "imageUrl": ""
+  },
+  {
+    "id": "firebending-lesson-tla-nonfoil",
+    "name": "Firebending Lesson",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 5,
+    "imageUrl": ""
+  },
+  {
+    "id": "the-cave-of-two-lovers-tla-nonfoil",
+    "name": "The Cave of two lovers",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "ty-lee-artful-acrobat-tla-nonfoil",
+    "name": "Ty lee, Artful Acrobat",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": ""
+  },
+  {
+    "id": "war-balloon-tla-nonfoil",
+    "name": "War Balloon",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 3,
+    "imageUrl": ""
   }
 ]
