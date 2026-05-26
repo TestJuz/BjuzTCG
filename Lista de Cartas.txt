@@ -1,26 +1,45 @@
-Lost days, 5, false, 200
-Honest Work, 1, false, 200
-Teo, Spirited Glider, 1, false, 200
-It'll Quench Ya!. 8, false, 200
-Katarqa, Bending Prodigy, 2, false, 150
-Benevolent River Spirit, 1, false, 200
-Waterbender Ascension, 2, false, 750
-Invasion Submersible, 4, false, 200
-Forecasting Fortune Teller, 3, false, 200
-Secret of bloodbending, 1, false, 500
-Flexible Waterbender, 7, false. 200
-Otter-Penguin, 7, false, 200
-Octopus Form, 2, false, 200
-Waterbending Lesson, 7, false, 200
-First-Time Flyer, 5, false, 150
-Rowdy Snowballers, 5, false, 200
-Watery Grasp, 3, false, 200
-Accumulate Wisdom, 1, false, 1500
-Ember Island Production, 2, false, 200
-Geyser Leaper, 7, false, 200
-Giant Koi, 4, false, 200
-Knowledge seeker, 3, false, 200
-North Pole Patrol, 4, false, 200
-North Pole Patrol, 1, true, 300
-Iguana Parrot, 5, false, 200
-Sokka's Haiku, 1, false, 200
+Katara Water Tribe's Hope; 1; false; false; 250
+Katara Water Tribe's Hope; 1; false; true ; 700
+Bumi, Unleashed; 2, false; false; 2500
+Bender's Waterskin, 2; false; false; 500
+Katara, Seeking Revenge; 1; false; false; 200
+Sokka, Tenacious Tactician; 2; false; false; 250
+Sokka, Bold Boomeranger; 1; false; false; 750
+Boomerang Basics; 1; false; true; 3000
+Return of the Wildspeaker (Earth Rumble Triumph); 1; false; true; 1600
+Earthbender Ascension; 1; false; true; 3000
+Toph, Hardheaded teacher; 1; false; false; 1250
+Earthbender Ascension; 1; false; false; 2500
+The Earth King; 1; false; true; 1500
+Badgermole cub; 1; false; false; 35000
+Great Divide Guide; 1; false; false; 1250
+Dai Li Agents; 1; false; true; 250
+Shared Roots; 1; false, false; 750
+Ba Sing Se; 1; false; false; 2500
+Secret Tunnel; 1; false; false; 1500
+The Cabbage Merchant; 1; true; true; 15000
+Iroh, Grand Lotus; 1; false; false; 250
+Sun Warriors; 1; false; false; 300
+Fire Lord Zuko; 1; false; true; 3500
+Fire Lord Zuko; 1; true; false; 750
+Redirect Lightning; 1; false; false; 7000
+Firebender Ascension; 1; false; false 1000
+The Last Agni Kai; 1; false; false; 1250
+Fire Lord Azula; 2; false; false; 600
+Lightning Strike, 1; false; false; 200
+Azula, Cunning Usurper; false; false; 250
+Aang, Swift Savior; 1; false; false; 3500
+Avatar's Wrath; 1; true; false; 5000
+Sunbaked Canyon; 1; false; true; 2000
+Abandoned Air Temple; 1; false; false; 5000
+Enlightened tutor; 1; false; true; 21000
+The Legend of Roku // Avatar Roku; 1; false; false; 6800
+The Legend of Kyoshi // Avatar Kyoshi; 1; true; true; 8500
+The Legend of Yangchen // Avatar Yangchen; 1; true; true; 6800
+The Legend of Yangchen // Avatar Yangchen; 1; false; true ; 4500
+Appa, Steadfast Guardian; 1; true; false; 7500
+Momo, Friendly Flier; 1; true; false; 600
+Koh, the face stealer; 2; false; false; 450
+Crashing Wave; 1; false; true; 250
+Day of Black Sun; 1; false; false; 1250
+

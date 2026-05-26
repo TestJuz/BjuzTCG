@@ -625,7 +625,7 @@
     "set": "TLA",
     "foil": false,
     "price": 200,
-    "quantity": 1,
+    "quantity": 2,
     "imageUrl": "https://cards.scryfall.io/normal/front/d/c/dc399ae0-36b5-4c92-9fe2-138caf8d7a86.jpg?1764121078",
     "arteAlternativo": false
   },
@@ -715,7 +715,7 @@
     "set": "TLA",
     "foil": false,
     "price": 200,
-    "quantity": 5,
+    "quantity": 1,
     "imageUrl": "https://cards.scryfall.io/normal/front/5/7/5787b0e0-9469-4a6d-8b81-c992628e28c0.jpg?1764121006",
     "arteAlternativo": false
   },
@@ -817,6 +817,436 @@
     "price": 200,
     "quantity": 3,
     "imageUrl": "https://cards.scryfall.io/normal/front/6/8/6829b20d-c2fa-41a6-89ca-f21c522d8866.jpg?1764121090",
+    "arteAlternativo": false
+  },
+  {
+    "id": "katara-water-tribes-hope-tla-nonfoil",
+    "name": "Katara Water Tribe's Hope",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/e/9ec03308-59a2-417a-938f-bdda75080e43.jpg?1764121704",
+    "arteAlternativo": false
+  },
+  {
+    "id": "katara-water-tribes-hope-tla-nonfoil-alt",
+    "name": "Katara Water Tribe's Hope",
+    "set": "TLA",
+    "foil": false,
+    "price": 700,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/5/95547532-c056-44a5-9d80-4f6b729b6e0c.jpg?1764122552",
+    "arteAlternativo": true
+  },
+  {
+    "id": "bumi-unleashed-tla-nonfoil",
+    "name": "Bumi, Unleashed",
+    "set": "TLA",
+    "foil": false,
+    "price": 2500,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/2/b20a5185-7e31-4fc9-be11-9423bfc389bf.jpg?1764121501",
+    "arteAlternativo": false
+  },
+  {
+    "id": "benders-waterskin-tla-nonfoil",
+    "name": "Bender's Waterskin",
+    "set": "TLA",
+    "foil": false,
+    "price": 500,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/d/6d4a1712-d19e-4475-9614-a0b1af4da610.jpg?1764121885",
+    "arteAlternativo": false
+  },
+  {
+    "id": "katara-seeking-revenge-tla-nonfoil",
+    "name": "Katara, Seeking Revenge",
+    "set": "TLA",
+    "foil": false,
+    "price": 200,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/1/a1c3f58b-9323-44ea-93f0-64d5992c5674.jpg?1764118717",
+    "arteAlternativo": false
+  },
+  {
+    "id": "sokka-tenacious-tactician-tla-nonfoil",
+    "name": "Sokka, Tenacious Tactician",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/f/0/f0fa5897-1da7-488f-bb19-1632e969c050.jpg?1764121788",
+    "arteAlternativo": false
+  },
+  {
+    "id": "sokka-bold-boomeranger-tla-nonfoil",
+    "name": "Sokka, Bold Boomeranger",
+    "set": "TLA",
+    "foil": false,
+    "price": 750,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/a/4a1f1472-55b4-450d-8e4d-7297130a0cf3.jpg?1764121775",
+    "arteAlternativo": false
+  },
+  {
+    "id": "boomerang-basics-tla-nonfoil-alt",
+    "name": "Boomerang Basics",
+    "set": "TLA",
+    "foil": false,
+    "price": 3000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/7/17ab958a-abc6-472e-ad6a-97c731d89c74.jpg?1764120201",
+    "arteAlternativo": true
+  },
+  {
+    "id": "return-of-the-wildspeaker-earth-rumble-triumph-tla-nonfoil-alt",
+    "name": "Return of the Wildspeaker (Earth Rumble Triumph)",
+    "set": "TLA",
+    "foil": false,
+    "price": 1600,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/9/c924fa52-a835-4259-8bfd-2cde60bdfcc5.jpg?1764118052",
+    "arteAlternativo": true
+  },
+  {
+    "id": "earthbender-ascension-tla-nonfoil-alt",
+    "name": "Earthbender Ascension",
+    "set": "TLA",
+    "foil": false,
+    "price": 3000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/2/826b4f26-419a-4d74-8c70-275555092095.jpg?1775115250",
+    "arteAlternativo": true
+  },
+  {
+    "id": "toph-hardheaded-teacher-tla-nonfoil",
+    "name": "Toph, Hardheaded teacher",
+    "set": "TLA",
+    "foil": false,
+    "price": 1250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/3/e3ba3395-39db-4330-9801-53def924f253.jpg?1764121814",
+    "arteAlternativo": false
+  },
+  {
+    "id": "earthbender-ascension-tla-nonfoil",
+    "name": "Earthbender Ascension",
+    "set": "TLA",
+    "foil": false,
+    "price": 2500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/5/9/590a58ab-5e98-4031-8aa6-ce396dc1429f.jpg?1764121189",
+    "arteAlternativo": false
+  },
+  {
+    "id": "the-earth-king-tla-nonfoil-alt",
+    "name": "The Earth King",
+    "set": "TLA",
+    "foil": false,
+    "price": 1500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/6/3687f487-eec1-4979-8008-5c907adafe9d.jpg?1764122482",
+    "arteAlternativo": true
+  },
+  {
+    "id": "badgermole-cub-tla-nonfoil",
+    "name": "Badgermole cub",
+    "set": "TLA",
+    "foil": false,
+    "price": 35000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/3/4/340c5799-4964-44dd-8c48-8f3f3aba5211.jpg?1764121140",
+    "arteAlternativo": false
+  },
+  {
+    "id": "great-divide-guide-tla-nonfoil",
+    "name": "Great Divide Guide",
+    "set": "TLA",
+    "foil": false,
+    "price": 1250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/c/cc3063ec-5ea6-46c1-8331-c740cbaf6c76.jpg?1764121229",
+    "arteAlternativo": false
+  },
+  {
+    "id": "dai-li-agents-tla-nonfoil-alt",
+    "name": "Dai Li Agents",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/large/front/8/2/82822ac1-9288-4bac-8afd-83563e693731.jpg?1764122222",
+    "arteAlternativo": true
+  },
+  {
+    "id": "shared-roots-tla-nonfoil",
+    "name": "Shared Roots",
+    "set": "TLA",
+    "foil": false,
+    "price": 750,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/7/e7847ba5-e85e-417f-96c0-aef2e6f83994.jpg?1764121332",
+    "arteAlternativo": false
+  },
+  {
+    "id": "ba-sing-se-tla-nonfoil",
+    "name": "Ba Sing Se",
+    "set": "TLA",
+    "foil": false,
+    "price": 2500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/d/bdf3b2be-d0cd-4a3c-a10e-82d32c12d3bd.jpg?1764121955",
+    "arteAlternativo": false
+  },
+  {
+    "id": "secret-tunnel-tla-nonfoil",
+    "name": "Secret Tunnel",
+    "set": "TLA",
+    "foil": false,
+    "price": 1500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/d/2d39a0e1-6484-409c-ab05-5b276925a949.jpg?1764122027",
+    "arteAlternativo": false
+  },
+  {
+    "id": "the-cabbage-merchant-tla-foil-alt",
+    "name": "The Cabbage Merchant",
+    "set": "TLA",
+    "foil": true,
+    "price": 15000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/f/2fea0356-6684-4730-9eb4-0262856bc1f9.jpg?1770831825",
+    "arteAlternativo": true
+  },
+  {
+    "id": "iroh-grand-lotus-tla-nonfoil",
+    "name": "Iroh, Grand Lotus",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/7/879b73d3-4552-4fdc-baee-c4d097ae9a4f.jpg?1764121663",
+    "arteAlternativo": false
+  },
+  {
+    "id": "sun-warriors-tla-nonfoil",
+    "name": "Sun Warriors",
+    "set": "TLA",
+    "foil": false,
+    "price": 300,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/4/e477d750-42d2-48c8-bc1f-8148d15d5f53.jpg?1774851714",
+    "arteAlternativo": false
+  },
+  {
+    "id": "fire-lord-zuko-tla-nonfoil-alt",
+    "name": "Fire Lord Zuko",
+    "set": "TLA",
+    "foil": false,
+    "price": 3500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/large/front/c/d/cdcf267f-53b4-406e-8522-14e3e73dffa9.jpg?1764122282",
+    "arteAlternativo": true
+  },
+  {
+    "id": "fire-lord-zuko-tla-foil",
+    "name": "Fire Lord Zuko",
+    "set": "TLA",
+    "foil": true,
+    "price": 750,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/6/e62d3bcc-7bb4-42be-90a9-caf3c1caa29d.jpg?1764121603",
+    "arteAlternativo": false
+  },
+  {
+    "id": "redirect-lightning-tla-nonfoil",
+    "name": "Redirect Lightning",
+    "set": "TLA",
+    "foil": false,
+    "price": 7000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/b/2b5b14a7-1fdd-4efc-b197-cadfa7f7c860.jpg?1764121040",
+    "arteAlternativo": false
+  },
+  {
+    "id": "firebender-ascension-tla-nonfoil",
+    "name": "Firebender Ascension",
+    "set": "TLA",
+    "foil": false,
+    "price": 1000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/9/2929b702-03c6-4cf0-a3f7-61b27f4803be.jpg?1764120940",
+    "arteAlternativo": false
+  },
+  {
+    "id": "the-last-agni-kai-tla-nonfoil",
+    "name": "The Last Agni Kai",
+    "set": "TLA",
+    "foil": false,
+    "price": 1250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1764120987",
+    "arteAlternativo": false
+  },
+  {
+    "id": "fire-lord-azula-tla-nonfoil",
+    "name": "Fire Lord Azula",
+    "set": "TLA",
+    "foil": false,
+    "price": 600,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1764121593",
+    "arteAlternativo": false
+  },
+  {
+    "id": "azula-cunning-usureper-tla-nonfoil",
+    "name": "Azula, Cunning Usurper",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/a/daf30e1c-436d-4f23-b1d2-570619a4b7f5.jpg?1764121470",
+    "arteAlternativo": false
+  },
+  {
+    "id": "aang-swift-savior-tla-nonfoil",
+    "name": "Aang, Swift Savior",
+    "set": "TLA",
+    "foil": false,
+    "price": 3500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1778914119",
+    "arteAlternativo": false
+  },
+  {
+    "id": "avatars-wrath-tla-foil",
+    "name": "Avatar's Wrath",
+    "set": "TLA",
+    "foil": true,
+    "price": 5000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/8/4811072d-fac0-40dd-a5cf-9694d51b12cf.jpg?1764119949",
+    "arteAlternativo": false
+  },
+  {
+    "id": "sunbaked-canyon-tla-nonfoil-alt",
+    "name": "Sunbaked Canyon",
+    "set": "TLA",
+    "foil": false,
+    "price": 2000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/e/9/e9e69236-3a67-449f-8591-094ef78da6e7.jpg?1764118136",
+    "arteAlternativo": true
+  },
+  {
+    "id": "abandoned-air-temple-tla-nonfoil",
+    "name": "Abandoned Air Temple",
+    "set": "TLA",
+    "foil": false,
+    "price": 5000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/c/9c0433f9-8f1e-4a19-a83f-a41925f1b1a9.jpg?1764121937",
+    "arteAlternativo": false
+  },
+  {
+    "id": "enlightened-tutor-tla-nonfoil-alt",
+    "name": "Enlightened tutor",
+    "set": "TLA",
+    "foil": false,
+    "price": 21000,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/1/c/1c9675fb-1a89-420f-aea8-50e0642f549c.jpg?1675198797",
+    "arteAlternativo": true
+  },
+  {
+    "id": "the-legend-of-roku-avatar-roku-tla-nonfoil",
+    "name": "The Legend of Roku // Avatar Roku",
+    "set": "TLA",
+    "foil": false,
+    "price": 6800,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1770463856",
+    "arteAlternativo": false
+  },
+  {
+    "id": "the-legend-of-kyoshi-avatar-kyoshi-tla-foil-alt",
+    "name": "The Legend of Kyoshi // Avatar Kyoshi",
+    "set": "TLA",
+    "foil": true,
+    "price": 8500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1764846544",
+    "arteAlternativo": true
+  },
+  {
+    "id": "the-legend-of-yangchen-avatar-yangchen-tla-foil-alt",
+    "name": "The Legend of Yangchen // Avatar Yangchen",
+    "set": "TLA",
+    "foil": true,
+    "price": 6800,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/a/da4c41f1-5584-4c20-a105-f467e8204a55.jpg?1765673116",
+    "arteAlternativo": false
+  },
+  {
+    "id": "the-legend-of-yangchen-avatar-yangchen-tla-nonfoil-alt",
+    "name": "The Legend of Yangchen // Avatar Yangchen",
+    "set": "TLA",
+    "foil": false,
+    "price": 4500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/9/4/944ddbe5-45bf-44c3-aad5-b051ec79ae8b.jpg?1775115422",
+    "arteAlternativo": true
+  },
+  {
+    "id": "appa-steadfast-guardian-tla-foil",
+    "name": "Appa, Steadfast Guardian",
+    "set": "TLA",
+    "foil": true,
+    "price": 7500,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/8/2/829d91e9-4878-4e55-a262-ac0d55b65d4e.jpg?1764119935",
+    "arteAlternativo": false
+  },
+  {
+    "id": "momo-friendly-flier-tla-foil",
+    "name": "Momo, Friendly Flier",
+    "set": "TLA",
+    "foil": true,
+    "price": 600,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/c/4/c472ef84-a632-4ad7-853c-60588a7a4b12.jpg?1764120082",
+    "arteAlternativo": false
+  },
+  {
+    "id": "koh-the-face-stealer-tla-nonfoil",
+    "name": "Koh, the face stealer",
+    "set": "TLA",
+    "foil": false,
+    "price": 450,
+    "quantity": 2,
+    "imageUrl": "https://cards.scryfall.io/normal/front/2/8/28f6fa32-5058-4c29-9ba8-9d8f2057eb6d.jpg?1764120741",
+    "arteAlternativo": false
+  },
+  {
+    "id": "crashing-wave-tla-nonfoil-alt",
+    "name": "Crashing Wave",
+    "set": "TLA",
+    "foil": false,
+    "price": 250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/a/4/a4cee0c6-8a29-4d08-9b24-c12c45c2309d.jpg?1764122173",
+    "arteAlternativo": true
+  },
+  {
+    "id": "day-of-black-sun-tla-nonfoil",
+    "name": "Day of Black Sun",
+    "set": "TLA",
+    "foil": false,
+    "price": 1250,
+    "quantity": 1,
+    "imageUrl": "https://cards.scryfall.io/normal/front/d/0/d0e24797-3e45-4c2b-b4b0-1ef44d42eaee.jpg?1764120649",
     "arteAlternativo": false
   }
 ]

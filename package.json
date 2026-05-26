@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "predeploy": "npm run build",
+    "predeploy": "npm run hydrate:images && npm run build",
     "deploy": "gh-pages -d dist",
-    "build": "vite build",
+    "build": " npm run hydrate:images && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "hydrate:images": "node scripts/hydrate-card-images.mjs"
   },
